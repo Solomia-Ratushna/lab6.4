@@ -1,0 +1,2 @@
+C:\Users\ADMIN\Desktop\lab6.4\6.4\x64\Debug\Laboratory_work_6_4.exe
+C:\Users\ADMIN\Desktop\lab6.4\6.4\x64\Debug\Laboratory_work_6_4.pdb
